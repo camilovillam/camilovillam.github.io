@@ -1,7 +1,7 @@
 # Power Platform Developer and Functional Consultant
 New York City, USA
 
-For details of my experience and education, please check my [LinkedIn profile]([https://www.linkedin.com/](https://www.linkedin.com/in/camilo-villa-moreno/) 
+For details of my experience and education, please check my [LinkedIn profile]([https://www.linkedin.com/](https://www.linkedin.com/in/camilo-villa-moreno) 
 
 ## Certifications
 - Microsoft Certified: Power Platform Functional Consultant Associate ([PL-200](https://learn.microsoft.com/api/credentials/share/en-us/camilovillam/7E93DCEB794FFFD8?sharingId=2FEA0D547B3520DC)) 
