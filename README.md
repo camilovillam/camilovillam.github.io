@@ -1,19 +1,19 @@
-# Camilo Villa
 # Power Platform Developer and Functional Consultant
+New York City, USA
 
-# Certifications
+## Certifications
 
-# Education
+## Education
 - Electronic Engineering B.Sc.
 - Master in Technology and Innovation Management M.Sc.
 - Master in Applied Economics M.Sc.
 
-# Work Experience
+## Work Experience
 
-# Projects
+## Projects
 
-## Project 1
+### Project 1
 
-## Project 2
+### Project 2
 
-## Project 3
+### Project 3
