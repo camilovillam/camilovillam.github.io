@@ -1,5 +1,7 @@
 # Power Platform Developer and Functional Consultant
+
 Electronic Engineer | M.Sc. Technology and Innovation Management | Master in Applied Economics
+
 New York City, USA
 
 For details of my education and professional experience, please check my [LinkedIn profile](https://www.linkedin.com/in/camilo-villa-moreno) 
