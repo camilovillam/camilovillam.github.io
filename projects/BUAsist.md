@@ -12,39 +12,41 @@ A comprehensive business application for a Small B-Corp in Colombia, including E
 - Dataverse
 - Custom Pages (Canvas App)
 - Power Automate flows
-- Power BI reports
-- Classic Workflows
+- Classic workflows
+- Business rules
 - JavaScript (Client side code)
-- Low-code plugins
+- Power BI reports
 - Azure DevOps Boards
 
 ## Year
 
-2024
+2024 (ongoing)
 
 ## Screenshots
 
-Main grid - Opportunities:
+- Main grid - Opportunities:
 
 ![BUAsist - Model-Driven App - Main grid opportunities](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/BUAsist_01.jpg)
 
 
-Main form - Opportunities:
+- Main form - Opportunities:
 
 ![BUAsist - Model-Driven App - Main form Opportunities](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/BUAsist_02.jpg)
 
 
-Main grid - Team assignments:
+- Main grid - Team assignments:
 
 ![BUAsist - Model-Driven App - Main grid Team tasks](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/BUAsist_03.jpg)
 
 
-Power BI report - Team assignments:
+- Power BI report - Team assignments:
 
 ![Screenshot BUAsist - Model-Driven App - Power BI report Team tasks](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/BUAsist_04.jpg)
 
 
-Volume price calculator (Custom page with Canvas Apps):
+- Volume price calculator (Custom page with Canvas Apps):
 
 ![Screenshot BUAsist - Model-Driven App - Custom Page (Canvas app)](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/BUAsist_05.jpg)
 
+
+Back to the [main page](https://camilovillam.github.io/)
