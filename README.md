@@ -10,22 +10,23 @@ For details of my education and professional experience, please check my [Linked
 - Microsoft Certified: Power Platform Functional Consultant Associate ([PL-200](https://learn.microsoft.com/api/credentials/share/en-us/camilovillam/7E93DCEB794FFFD8?sharingId=2FEA0D547B3520DC)) 
 - Microsoft Certified: Power Platform Fundamentals ([PL-900](https://learn.microsoft.com/api/credentials/share/en-us/camilovillam/512AE2FB181DCE59?sharingId=2FEA0D547B3520DC)) 
     
-## Power Platform and related Skills
+## Power Platform Skills
 Model Driven Apps | Canvas Apps | Dataverse | Power Automate | Copilot Studio | Power Pages | Power BI | Azure DevOps | Azure Data Flows | Azure Functions |
   
 ## Power Platform Projects
 
-### Project 1: BUAsist
+### [BUAsist](https://camilovillam.github.io/projects/BUAsist)
 
 A comprehensive business application for a Small B-Corp in Colombia, including ERP, CRM, SCM and project management components. Built using a Dataverse Model-driven App and other technologies and tools of the Power Platform.
 
-[Details](https://camilovillam.github.io/projects/BUAsist)
+### International Relations Management (PoC)
 
+### Power Automate Flows
 
-### Project 2: PoC: International Relations Management
+### Copilot Studio 
 
-### Project 3: Power Automate Flows
+### Online Store Canvas App
 
-### Project 4: Online Store canvas app (educational project - Power Up program)
+### Azure Data Flow
 
-### Project 5: Power Pages (educational project - Architects Accelerator program)
+### Project 5: Power Pages
