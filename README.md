@@ -11,7 +11,7 @@ For contact details and additional information about my education and profession
 - Microsoft Certified: Power Platform Fundamentals ([PL-900](https://learn.microsoft.com/api/credentials/share/en-us/camilovillam/512AE2FB181DCE59?sharingId=2FEA0D547B3520DC)). 
     
 ## Power Platform Skills
-Power Apps | Model Driven Apps | Canvas Apps | Dataverse | Power Automate | Copilot Studio | Power Pages | Power BI | Azure DevOps | Azure Data Flows | Azure Functions |
+Power Apps | Model Driven Apps | Canvas Apps | Dataverse | Power Automate | Copilot Studio | Power Pages | Power BI | Azure DevOps | Azure Data Flows | Azure Functions | Sharepoint |
   
 ## Power Platform Projects
 
@@ -23,22 +23,26 @@ A comprehensive business application for a Small B-Corp in Colombia, including E
 
 Proof of concept of a system to manage international relations agreements and students mobility of a university.
 
-### 3. Power Automate Flows
+### 3. Automation of a university grant making process (Power Automate and Microsoft 365 Apps)
+
+Automation of a whole process to manage applications for a call for grants at a university, including receiving proposals, storing and sharing application files, internal reviews and approvals, communication of results, among other, using Power Automate and Microsoft 365 apps (Sharepoint, Forms, Teams, Outlook, Excel).
+
+### 4. Power Automate flows
 
 Several Power Automate flows to solve specific business cases, to automate repetitive tasks, or to increase team productivity.
 
-### 4. Copilot Studio - AI Agent
+### 5. Copilot Studio - AI Agent
 
 Copilot Agent with AI capabilities (training project for the Power Platform Architects Accelerator program).
 
-### 5. Online Retail Store (Canvas App)
+### 6. Online Retail Store (Canvas App)
 
 Canvas App simulating an online store (training project for the Microsoft Power Up training program).
 
-### 6. Outdoor Activities webpage (Power Pages)
+### 7. Outdoor Activities webpage (Power Pages)
 
 Webpage for booking outdoors activities (training project for the Power Platform Architects Accelerator program).
 
-### 7. Connecting a SQL Database (Azure Data Flows)
+### 8. Connecting a SQL Database (Azure Data Flows)
 
 Azure Data Flow integrating an Azure SQL Databse with Dataverse to be used with a Model Driven App (training project for the Power Platform Architects Accelerator program).
