@@ -19,7 +19,7 @@ Power Apps | Model Driven Apps | Canvas Apps | Dataverse | Power Automate | Copi
 
 A comprehensive business application for a Small B-Corp, including ERP, CRM, SCM and project management components. Built using a Dataverse Model-driven App and other technologies and tools of the Power Platform.
 
-![BUAsist - Model-Driven App - Main grid opportunities](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/BUAsist_01.jpg)
+[![BUAsist - Model-Driven App - Main grid opportunities](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/BUAsist_01.jpg)](https://camilovillam.github.io/projects/BUAsist)
 
 ### 2. International Relations Management (Power Apps - Model Driven App)
 
