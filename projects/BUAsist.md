@@ -16,6 +16,7 @@ A comprehensive business application for a Small B-Corp in Colombia, including E
 - Classic Workflows
 - JavaScript (Client side code)
 - Low-code plugins
+- Azure DevOps Boards
 
 ## Year
 
@@ -23,13 +24,18 @@ A comprehensive business application for a Small B-Corp in Colombia, including E
 
 ## Images
 
+Main grid - Opportunities:
 ![BUAsist - Model-Driven App - Main grid opportunities](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/BUAsist_01.jpg)
 
+Main form - Opportunities:
 ![BUAsist - Model-Driven App - Main form Opportunities](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/BUAsist_02.jpg)
 
+Main grid - Team assignments:
 ![BUAsist - Model-Driven App - Main grid Team tasks](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/BUAsist_03.jpg)
 
+Power BI report - Team assignments:
 ![Screenshot BUAsist - Model-Driven App - Power BI report Team tasks](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/BUAsist_04.jpg)
 
+Custom page (Canvas app)
 ![Screenshot BUAsist - Model-Driven App - Custom Page (Canvas app)](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/BUAsist_05.jpg)
 
