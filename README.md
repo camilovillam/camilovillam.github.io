@@ -23,7 +23,7 @@ A comprehensive business application for a Small B-Corp in Colombia, including E
 
 Proof of concept of a system to manage international relations agreements and students mobility of a university.
 
-### 3. Automation of a university grant making process (Power Automate and Microsoft 365 Apps)
+### 3. University grant making process (Power Automate and Microsoft 365 Apps)
 
 Automation of a whole process to manage applications for a call for grants at a university, including receiving proposals, storing and sharing application files, internal reviews and approvals, communication of results, among other, using Power Automate and Microsoft 365 apps (Sharepoint, Forms, Teams, Outlook, Excel).
 
