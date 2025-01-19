@@ -1,6 +1,6 @@
 # Project 1: BUAsist
 
-[Main page](https://camilovillam.github.io/)
+Back to the [main page](https://camilovillam.github.io/)
 
 ## Description
 
