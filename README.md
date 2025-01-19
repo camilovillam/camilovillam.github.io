@@ -13,7 +13,7 @@ For contact details and additional information about my education and profession
 ## Power Platform Skills
 Power Apps | Model Driven Apps | Canvas Apps | Dataverse | Power Automate | Copilot Studio | Power Pages | Power BI | Azure DevOps | Azure Data Flows | Azure Functions |
   
-## Power Platform Projects (selection)
+## Power Platform Projects
 
 ### 1. [BUAsist](https://camilovillam.github.io/projects/BUAsist) (Power Apps - Model Driven App)
 
@@ -35,10 +35,10 @@ Copilot Agent with AI capabilities (training project for the Power Platform Arch
 
 Canvas App simulating an online store (training project for the Microsoft Power Up training program).
 
-### 7. Outdoor Activities webpage (Power Pages)
+### 6. Outdoor Activities webpage (Power Pages)
 
 Webpage for booking outdoors activities (training project for the Power Platform Architects Accelerator program).
 
-### 8. Connecting a SQL Database (Azure Data Flows)
+### 7. Connecting a SQL Database (Azure Data Flows)
 
 Azure Data Flow integrating an Azure SQL Databse with Dataverse to be used with a Model Driven App (training project for the Power Platform Architects Accelerator program).
