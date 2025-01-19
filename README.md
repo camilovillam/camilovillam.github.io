@@ -17,6 +17,11 @@ Model Driven Apps | Canvas Apps | Dataverse | Power Automate | Copilot Studio | 
 
 ### Project 1: BUAsist
 
+A comprehensive business application for a Small B-Corp in Colombia, including ERP, CRM, SCM and project management components. Built using a Dataverse Model-driven App and other technologies and tools of the Power Platform.
+
+[Details](https://camilovillam.github.io/projects/BUAsist)
+
+
 ### Project 2: PoC: International Relations Management
 
 ### Project 3: Power Automate Flows
