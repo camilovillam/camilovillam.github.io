@@ -22,20 +22,29 @@ A comprehensive business application for a Small B-Corp in Colombia, including E
 
 2024
 
-## Images
+## Screenshots
 
 Main grid - Opportunities:
+
 ![BUAsist - Model-Driven App - Main grid opportunities](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/BUAsist_01.jpg)
 
+
 Main form - Opportunities:
+
 ![BUAsist - Model-Driven App - Main form Opportunities](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/BUAsist_02.jpg)
 
+
 Main grid - Team assignments:
+
 ![BUAsist - Model-Driven App - Main grid Team tasks](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/BUAsist_03.jpg)
 
+
 Power BI report - Team assignments:
+
 ![Screenshot BUAsist - Model-Driven App - Power BI report Team tasks](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/BUAsist_04.jpg)
 
-Custom page (Canvas app)
+
+Volume price calculator (Custom page with Canvas Apps):
+
 ![Screenshot BUAsist - Model-Driven App - Custom Page (Canvas app)](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/BUAsist_05.jpg)
 
