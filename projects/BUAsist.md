@@ -6,7 +6,7 @@
 
 A comprehensive business application for a Small B-Corp in Colombia, including ERP, CRM, SCM and project management components. Built using a Dataverse Model-driven App and other technologies and tools of the Power Platform.
 
-## Technologies used
+## Techonologies and tools
 
 - Model Driven Apps
 - Dataverse
@@ -15,6 +15,7 @@ A comprehensive business application for a Small B-Corp in Colombia, including E
 - Classic workflows
 - Business rules
 - JavaScript (Client side code)
+- PCF components
 - Power BI reports
 - Azure DevOps Boards
 
