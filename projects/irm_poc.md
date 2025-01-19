@@ -6,7 +6,7 @@
 
 Short description
 
-## Technologies used
+## Techonologies and tools
 
 - T1
 - T2
