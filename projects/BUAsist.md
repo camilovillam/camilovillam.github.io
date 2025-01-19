@@ -1,4 +1,4 @@
-# Project 1: BUAsist
+# BUAsist (Power Apps - Model Driven App)
 
 *Back to the [main page](https://camilovillam.github.io/).*
 
