@@ -17,15 +17,15 @@ Power Apps | Model Driven Apps | Canvas Apps | Dataverse | Power Automate | Copi
 
 ### 1. [BUAsist](https://camilovillam.github.io/projects/BUAsist) (Power Apps - Model Driven App)
 
-A comprehensive business application for a Small B-Corp in Colombia, including ERP, CRM, SCM and project management components. Built using a Dataverse Model-driven App and other technologies and tools of the Power Platform.
+A comprehensive business application for a Small B-Corp, including ERP, CRM, SCM and project management components. Built using a Dataverse Model-driven App and other technologies and tools of the Power Platform.
 
 ### 2. International Relations Management (Power Apps - Model Driven App)
 
 Proof of concept of a system to manage international relations agreements and students mobility of a university.
 
-### 3. University grant making process (Power Automate and Microsoft 365 Apps)
+### 3. University grant making process (Power Automate and Microsoft 365)
 
-Automation of a whole process to manage applications for a call for grants at a university, including receiving proposals, storing and sharing application files, internal reviews and approvals, communication of results, among other, using Power Automate and Microsoft 365 apps (Sharepoint, Forms, Teams, Outlook, Excel).
+Automation of a whole process to manage applications for an internal call for grants at a university, including receiving proposals, storing and sharing application files, internal reviews and approvals, communication of results, among other, using Power Automate and Microsoft 365 apps (Sharepoint, Forms, Teams, Outlook, Excel).
 
 ### 4. Power Automate flows
 
