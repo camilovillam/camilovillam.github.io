@@ -21,11 +21,13 @@ A comprehensive business application for a Small B-Corp, including ERP, CRM, SCM
 
 [![BUAsist - Model-Driven App - Main grid opportunities](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/BUAsist_01.jpg)](https://camilovillam.github.io/projects/BUAsist)
 
+
 ### - International Relations Management (Power Apps - Model Driven App)
 
 Proof of concept of a system to manage international relations agreements and students mobility of a university.
 
 ![IRM - Model-Driven App - Main grid Agreements](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/IRO_management_01.jpg)
+
 
 ### - Power Automate flows
 
@@ -33,20 +35,30 @@ Several Power Automate flows to solve specific business cases, to automate repet
 
 ![Power Automate Flow](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Power%20Automate%20flow_JSON_http_requests.jpg)
 
+
 ### - Power BI reports and dashboards
 
 Standalone and embedded in Model Driven Apps.
 
 ![Power BI report](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Power%20BI%20report.jpg)
 
-### - Online Retail Store (Canvas App)
 
-Canvas App simulating an online store (*training project for the Microsoft Power Up training program*).
+### - Azure DevOps Boards
 
-![Canvas App](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Canvas_app_05.jpg)
+Supporting an Agile product development with the customer of a Model Driven App.
+
+![Power BI report](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Azure_DevOps_Boards.jpg)
+
 
 ### - Connecting an Azure SQL Database to Dataverse (Azure Data Factory)
 
 Data Flow in Azure Data Factory to integrate an SQL Database with Dataverse (*training project for the Power Platform Architects Accelerator program*).
 
 ![Azure Data Factory](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Azure_Data_Factory_01.jpg)
+
+
+### - Online Retail Store (Canvas App)
+
+Canvas App simulating an online store (*training project for the Microsoft Power Up training program*).
+
+![Canvas App](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Canvas_app_05.jpg)
