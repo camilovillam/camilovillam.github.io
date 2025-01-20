@@ -65,6 +65,6 @@ Data Flow in Azure Data Factory to integrate an SQL Database with Dataverse (*tr
 
 Canvas App simulating an online store (*training project for the Microsoft Power Up training program*).
 
-![Canvas App](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Canvas_app_06.jpg)
+![Canvas App](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Canvas_app_05.jpg)
 
 ---
