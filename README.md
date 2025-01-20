@@ -17,9 +17,9 @@ For contact details and additional information about my education and profession
 ## Courses and training
 - Power Platform Architects Accelerator - Untethered365 ([2024](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/certificates/ArchitectsAccelerator_Certificate_of_completion_2024.jpg)).
 
-> *"Camilo was a superstar in the coursework and live calls. He was one of the few to pull off building a prototype for an enterprise data pipeline and even took on the advanced Power Pages assignments! He doesn't have "Solutions Architect" in his title but he should! A true renaissance talent, he nicely walks the line balancing low and pro code and doesn't bias towards one but rather makes decisions on what truly brings the most impact to the stakeholder. His homework submissions would be used as examples for others."*
+> *Camilo was a superstar in the coursework and live calls. He was one of the few to pull off building a prototype for an enterprise data pipeline and even took on the advanced Power Pages assignments! He doesn't have "Solutions Architect" in his title but he should! A true renaissance talent, he nicely walks the line balancing low and pro code and doesn't bias towards one but rather makes decisions on what truly brings the most impact to the stakeholder. His homework submissions would be used as examples for others.*
 >
-> Sean Astrakhan, Untethered365
+> Sean Astrakhan, [Untethered365](https://www.linkedin.com/posts/untethered-365_september-cohort-certificates-of-completion-activity-7257488974418530306-mW3o)
 
 
 - Agile Foundations for Microsoft Business Apps - Customery Academy ([2024](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/certificates/Customery_Agile_Foundations_certificate.jpg)).
@@ -47,7 +47,7 @@ A comprehensive business application for a Small B-Corp, including ERP, CRM, SCM
 
 Proof of concept of a system to manage international relations agreements and students mobility of a university.
 
-![IRM - Model-Driven App - Main grid Agreements](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/IRO_management_01.jpg)
+[![IRM - Model-Driven App - Main grid Agreements](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/IRO_management_01.jpg)](https://camilovillam.github.io/projects/irm_poc)
 
 ---
 
@@ -55,7 +55,7 @@ Proof of concept of a system to manage international relations agreements and st
 
 Different Power Automate flows to solve specific business cases, to automate repetitive tasks, or to increase team productivity.
 
-![Power Automate Flow](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Power%20Automate%20flow_JSON_http_requests.jpg)
+[![Power Automate Flow](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Power%20Automate%20flow_JSON_http_requests.jpg)](https://camilovillam.github.io/projects/power_automate)
 
 ---
 
@@ -63,7 +63,7 @@ Different Power Automate flows to solve specific business cases, to automate rep
 
 Power BI reports and dashboards to summarize and visualize key data.
 
-![Power BI report](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Power%20BI%20report.jpg)
+[![Power BI report](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Power%20BI%20report.jpg)](https://camilovillam.github.io/projects/power_bi)
 
 ---
 
@@ -72,7 +72,7 @@ Power BI reports and dashboards to summarize and visualize key data.
 
 Canvas App simulating an online store (*training project for the Microsoft Power Up training program*).
 
-![Canvas App](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Canvas_app_05.jpg)
+[![Canvas App](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Canvas_app_05.jpg)](https://camilovillam.github.io/projects/canvas_app)
 
 ---
 
@@ -81,6 +81,6 @@ Canvas App simulating an online store (*training project for the Microsoft Power
 
 Data Flow in Azure Data Factory to integrate an SQL Database with Dataverse (*training project for the Power Platform Architects Accelerator program*).
 
-![Azure Data Factory](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Azure_Data_Factory_01.jpg)
+[![Azure Data Factory](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Azure_Data_Factory_01.jpg)](https://camilovillam.github.io/projects/azure_data_factory)
 
 ---
