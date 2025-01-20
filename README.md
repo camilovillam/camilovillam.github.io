@@ -4,27 +4,27 @@ Electronic Engineer | M.Sc. Technology and Innovation Management | Master in App
 
 New York City, USA
 
-For contact details and additional information about my education and professional experience, please visit my [LinkedIn profile](https://www.linkedin.com/in/camilo-villa-moreno). 
+For contact details and additional information about my education and professional experience, please visit my [LinkedIn profile](https://www.linkedin.com/in/camilo-villa-moreno){:target="_blank"}. 
 
 ---
 
 ## Certifications
-- Microsoft Certified: Power Platform Functional Consultant Associate ([PL-200](https://learn.microsoft.com/api/credentials/share/en-us/camilovillam/7E93DCEB794FFFD8?sharingId=2FEA0D547B3520DC)). 
-- Microsoft Certified: Power Platform Fundamentals ([PL-900](https://learn.microsoft.com/api/credentials/share/en-us/camilovillam/512AE2FB181DCE59?sharingId=2FEA0D547B3520DC)). 
+- Microsoft Certified: Power Platform Functional Consultant Associate ([PL-200](https://learn.microsoft.com/api/credentials/share/en-us/camilovillam/7E93DCEB794FFFD8?sharingId=2FEA0D547B3520DC){:target="_blank"}). 
+- Microsoft Certified: Power Platform Fundamentals ([PL-900](https://learn.microsoft.com/api/credentials/share/en-us/camilovillam/512AE2FB181DCE59?sharingId=2FEA0D547B3520DC){:target="_blank"}). 
 
 ---
 
 ## Courses and training
-- Power Platform Architects Accelerator - Untethered365 ([2024](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/certificates/ArchitectsAccelerator_Certificate_of_completion_2024.jpg)).
+- Power Platform Architects Accelerator - Untethered365 ([2024](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/certificates/ArchitectsAccelerator_Certificate_of_completion_2024.jpg){:target="_blank"}).
 
 > *Camilo was a superstar in the coursework and live calls. He was one of the few to pull off building a prototype for an enterprise data pipeline and even took on the advanced Power Pages assignments! He doesn't have "Solutions Architect" in his title but he should! A true renaissance talent, he nicely walks the line balancing low and pro code and doesn't bias towards one but rather makes decisions on what truly brings the most impact to the stakeholder. His homework submissions would be used as examples for others.*
 >
-> Sean Astrakhan, [Untethered365](https://www.linkedin.com/posts/untethered-365_september-cohort-certificates-of-completion-activity-7257488974418530306-mW3o)
+> Sean Astrakhan, [Untethered365](https://www.linkedin.com/posts/untethered-365_september-cohort-certificates-of-completion-activity-7257488974418530306-mW3o){:target="_blank"}
 
 
-- Agile Foundations for Microsoft Business Apps - Customery Academy ([2024](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/certificates/Customery_Agile_Foundations_certificate.jpg)).
-- Estimating Business Applications - Customery Academy ([2024](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/certificates/Customery_Estimating_business_apps_certificate.jpg)).
-- Power Up Program - Microsoft ([2023](https://www.credly.com/badges/11f8b0f3-a99c-4dc8-b81e-904c60242a11)).
+- Agile Foundations for Microsoft Business Apps - Customery Academy ([2024](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/certificates/Customery_Agile_Foundations_certificate.jpg){:target="_blank"}).
+- Estimating Business Applications - Customery Academy ([2024](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/certificates/Customery_Estimating_business_apps_certificate.jpg){:target="_blank"}).
+- Power Up Program - Microsoft ([2023](https://www.credly.com/badges/11f8b0f3-a99c-4dc8-b81e-904c60242a11){:target="_blank"}).
 
 ---
 
