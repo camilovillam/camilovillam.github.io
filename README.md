@@ -53,14 +53,6 @@ Standalone and embedded in Model Driven Apps.
 
 ---
 
-### Azure DevOps Boards
-
-Supporting an Agile product development with the customer of a Model Driven App.
-
-![Power BI report](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Azure_DevOps_Boards.jpg)
-
----
-
 ### Connecting an Azure SQL Database to Dataverse (Azure Data Factory)
 
 Data Flow in Azure Data Factory to integrate an SQL Database with Dataverse (*training project for the Power Platform Architects Accelerator program*).
