@@ -15,7 +15,7 @@ For contact details and additional information about my education and profession
 ---
  
 ## Power Platform skills
-Power Apps | Model Driven Apps | Canvas Apps | Dataverse | Power Automate | Copilot Studio | Power Pages | Power BI | Azure DevOps | Azure Data Flows | Azure Functions | Microsoft 365 | Sharepoint |
+Power Apps | Model Driven Apps | Canvas Apps | Dataverse | Power Automate | Copilot Studio | Power Pages | Power BI | Azure DevOps | Azure Data Factory | Azure Functions | Microsoft 365 | Sharepoint |
 
 ---
 
