@@ -26,6 +26,7 @@ For contact details and additional information about my education and profession
 - Agile Foundations for Microsoft Business Apps - Customery Academy ([2024](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/certificates/Customery_Agile_Foundations_certificate.jpg){:target="_blank"}).
 - Estimating Business Applications - Customery Academy ([2024](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/certificates/Customery_Estimating_business_apps_certificate.jpg){:target="_blank"}).
 - Power Up Program - Microsoft ([2023](https://www.credly.com/badges/11f8b0f3-a99c-4dc8-b81e-904c60242a11){:target="_blank"}).
+- Analize Data with SQL - Codecademy ([2024](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/certificates/Codecademy_Analize_data_SQL.jpg)).
 
 ---
 
