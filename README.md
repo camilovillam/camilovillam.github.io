@@ -14,6 +14,20 @@ For contact details and additional information about my education and profession
 
 ---
 
+## Courses and training
+- Power Platform Architects Accelerator - Untethered365 ([2024](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/certificates/ArchitectsAccelerator_Certificate_of_completion_2024.jpg)
+
+> *Camilo was a superstar in the coursework and live calls. He was one of the few to pull off building a prototype for an enterprise data pipeline and even took on the advanced Power Pages assignments! He doesn't have "Solutions Architect" in his title but he should! A true renaissance talent, he nicely walks the line balancing low and pro code and doesn't bias towards one but rather makes decisions on what truly brings the most impact to the stakeholder. His homework submissions would be used as examples for others.*
+>
+> Sean Astrakhan, Untethered365
+
+
+- Agile Foundations for Microsoft Business Apps - Customery Academy ([2024](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/certificates/Customery_Agile_Foundations_certificate.jpg))
+- Estimating Business Applications - Customery Academy ([2024](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/certificates/Customery_Estimating_business_apps_certificate.jpg))
+- Power Up Program - Microsoft ([2023](https://www.credly.com/badges/11f8b0f3-a99c-4dc8-b81e-904c60242a11))
+
+---
+
 ## Power Platform skills
 Power Apps | Model Driven Apps | Canvas Apps | Dataverse | Power Automate | Copilot Studio | Power Pages | Power BI | Azure DevOps | Azure Data Factory | Azure Functions | Microsoft 365 | Sharepoint |
 
@@ -47,7 +61,7 @@ Different Power Automate flows to solve specific business cases, to automate rep
 
 ### 4. [Power BI reports and dashboards](https://camilovillam.github.io/projects/power_bi)
 
-Standalone and embedded in Model Driven Apps.
+Power BI reports and dashboards to summarize and visualize key data.
 
 ![Power BI report](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Power%20BI%20report.jpg)
 
