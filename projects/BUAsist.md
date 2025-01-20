@@ -1,6 +1,6 @@
 # BUAsist (Power Apps - Model Driven App)
 
-*Back to the [main page](https://camilovillam.github.io/).*
+*Back to [Projects](https://camilovillam.github.io/#1-buasist-power-apps---model-driven-app).*
 
 ## Description
 
@@ -50,4 +50,4 @@ A comprehensive business application for a Small B-Corp in Colombia, including E
 ![Screenshot BUAsist - Model-Driven App - Custom Page (Canvas app)](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/BUAsist_05.jpg)
 
 
-*Back to the [main page](https://camilovillam.github.io/).*
+*Back to [Projects](https://camilovillam.github.io/#1-buasist-power-apps---model-driven-app).*

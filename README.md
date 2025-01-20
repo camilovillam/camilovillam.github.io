@@ -7,9 +7,6 @@ New York City, USA
 For contact details and additional information about my education and professional experience, please visit my [LinkedIn profile](https://www.linkedin.com/in/camilo-villa-moreno){:target="_blank"}. 
 
 
-Jump to [Power Platform projects](#power-platform-projects)
-
-
 ---
 
 ## Certifications

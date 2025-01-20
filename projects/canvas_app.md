@@ -1,6 +1,6 @@
 # Online Retail Store (Canvas App)
 
-*Back to the [main page](https://camilovillam.github.io/).*
+*Back to [Projects](https://camilovillam.github.io/#5-online-retail-store-canvas-app).*
 
 ## Description
 
@@ -56,4 +56,4 @@ Canvas App to implement an online store of a discount program for employees. It 
 ![Canvas App](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Canvas_app_05.jpg)
 
 
-*Back to the [main page](https://camilovillam.github.io/).*
+*Back to [Projects](https://camilovillam.github.io/#5-online-retail-store-canvas-app).*
