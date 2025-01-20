@@ -13,7 +13,7 @@ For contact details and additional information about my education and profession
 - Microsoft Certified: Power Platform Fundamentals ([PL-900](https://learn.microsoft.com/api/credentials/share/en-us/camilovillam/512AE2FB181DCE59?sharingId=2FEA0D547B3520DC)). 
 
 ---
- 
+
 ## Power Platform skills
 Power Apps | Model Driven Apps | Canvas Apps | Dataverse | Power Automate | Copilot Studio | Power Pages | Power BI | Azure DevOps | Azure Data Factory | Azure Functions | Microsoft 365 | Sharepoint |
 
@@ -29,7 +29,7 @@ A comprehensive business application for a Small B-Corp, including ERP, CRM, SCM
 
 ---
 
-### International Relations Management (Power Apps - Model Driven App)
+### [International Relations Management](https://camilovillam.github.io/projects/irm_poc) (Power Apps - Model Driven App)
 
 Proof of concept of a system to manage international relations agreements and students mobility of a university.
 
@@ -37,15 +37,15 @@ Proof of concept of a system to manage international relations agreements and st
 
 ---
 
-### Power Automate flows
+### [Power Automate flows](https://camilovillam.github.io/projects/power_automate)
 
-Several Power Automate flows to solve specific business cases, to automate repetitive tasks, or to increase team productivity.
+Different Power Automate flows to solve specific business cases, to automate repetitive tasks, or to increase team productivity.
 
 ![Power Automate Flow](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Power%20Automate%20flow_JSON_http_requests.jpg)
 
 ---
 
-### Power BI reports and dashboards
+### [Power BI reports and dashboards](https://camilovillam.github.io/projects/power_bi)
 
 Standalone and embedded in Model Driven Apps.
 
@@ -53,18 +53,20 @@ Standalone and embedded in Model Driven Apps.
 
 ---
 
-### Connecting an Azure SQL Database to Dataverse (Azure Data Factory)
 
-Data Flow in Azure Data Factory to integrate an SQL Database with Dataverse (*training project for the Power Platform Architects Accelerator program*).
-
-![Azure Data Factory](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Azure_Data_Factory_01.jpg)
-
----
-
-### Online Retail Store (Canvas App)
+### [Online Retail Store](https://camilovillam.github.io/projects/canvas_app) (Canvas App)
 
 Canvas App simulating an online store (*training project for the Microsoft Power Up training program*).
 
 ![Canvas App](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Canvas_app_05.jpg)
+
+---
+
+
+### [Connecting an Azure SQL Database to Dataverse](https://camilovillam.github.io/projects/azure_data_factory) (Azure Data Factory)
+
+Data Flow in Azure Data Factory to integrate an SQL Database with Dataverse (*training project for the Power Platform Architects Accelerator program*).
+
+![Azure Data Factory](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Azure_Data_Factory_01.jpg)
 
 ---

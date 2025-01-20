@@ -4,37 +4,31 @@
 
 ## Description
 
-Different Power Automate flows to solve specific business cases, to automate repetitive tasks, or to increase team productivity. Standalone or as part of Power Apps.
+Power BI reports and dashboards to summarize and visualize key data as part of broader solutions. Both standalone and as part of Power Apps.
+
 
 ## Technologies and tools
 
-- Power Automate
-- AI Builder
-- HTTP requests
-- JSON
-- Adaptive Cards
-- Teams
-- Sharepoint
-- Forms
+- Power BI
+- Power Query
+- Power Apps
 
 
 ## Year
 
-2021 - 2024
+2023 - 2024
 
 
 ## Screenshots
 
-- Screenshot 1:
+- Power BI dashboard for an online retail store, as part of a broader Canvas App solution.
 
-![Title](url)
-
-
-- Screenshot 2:
-
-![Title](url)
+![Power BI dashboard(https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Power%20BI%20report.jpg)
 
 
-- Screenshot 3:
+- Power BI report embedded in a Model Driven App, using a Gantt chart to visualize team assignments.
 
-![Title](url)
+![Power BI report Gantt Team tasks](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/BUAsist_04.jpg)
+
+
+*Back to the [main page](https://camilovillam.github.io/).*

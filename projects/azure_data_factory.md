@@ -4,37 +4,32 @@
 
 ## Description
 
-Different Power Automate flows to solve specific business cases, to automate repetitive tasks, or to increase team productivity. Standalone or as part of Power Apps.
+Data Flow built in Azure Data Factory to integrate an Azure SQL Database with Dataverse
+
+(*This project was part of the Power Platform Architects Accelerator program*).
+
 
 ## Technologies and tools
 
-- Power Automate
-- AI Builder
-- HTTP requests
-- JSON
-- Adaptive Cards
-- Teams
-- Sharepoint
-- Forms
+- Azure Data Factory
+- Dataverse
 
 
 ## Year
 
-2021 - 2024
+2024
 
 
 ## Screenshots
 
 - Screenshot 1:
 
-![Title](url)
+![Azure Data Factory](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Azure_Data_Factory_01.jpg)
 
 
 - Screenshot 2:
 
-![Title](url)
+![Azure Data Factory](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Azure_Data_Factory_02.jpg)
 
 
-- Screenshot 3:
-
-![Title](url)
+*Back to the [main page](https://camilovillam.github.io/).*

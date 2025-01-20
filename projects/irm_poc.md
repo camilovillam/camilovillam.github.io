@@ -4,36 +4,32 @@
 
 ## Description
 
-Short description
+Proof of concept (PoC) of a system to manage international relations agreements and students mobility of a university. The PoC was developed for the International Affairs Office of a university, with the goal of automating key processes and improving the management of information and data.
+
 
 ## Technologies and tools
 
-- T1
-- T2
-- T3
+- Power Apps (Model Driven App)
+- Dataverse
+- Power Automate flows
+- Power Pages
 
 
 ## Year
 
-yyyy
+2024
 
 
 ## Screenshots
 
-- Screenshot 1:
+- International Relations - Main grid: International agreements:
 
-![Title](url)
-
-
-- Screenshot 2:
-
-![Title](url)
+![IRM - Model-Driven App - Main grid Agreements](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/IRO_management_01.jpg)
 
 
-- Screenshot 3:
+- International Relations - Main form: International agreements:
 
-![Title](url)
-
+![IRM - Model-Driven App - Main grid Agreements](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/IRO_management_02.jpg)
 
 
 *Back to the [main page](https://camilovillam.github.io/).*

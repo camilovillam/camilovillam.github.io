@@ -54,3 +54,6 @@ Canvas App to implement an online store of a discount program for employees. It 
 - Order confirmation:
 
 ![Canvas App](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Canvas_app_05.jpg)
+
+
+*Back to the [main page](https://camilovillam.github.io/).*
