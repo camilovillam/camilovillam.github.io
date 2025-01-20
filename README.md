@@ -15,36 +15,28 @@ Power Apps | Model Driven Apps | Canvas Apps | Dataverse | Power Automate | Copi
   
 ## Power Platform projects
 
-### 1. [BUAsist](https://camilovillam.github.io/projects/BUAsist) (Power Apps - Model Driven App)
+### - [BUAsist](https://camilovillam.github.io/projects/BUAsist) (Power Apps - Model Driven App)
 
 A comprehensive business application for a Small B-Corp, including ERP, CRM, SCM and project management components. Built using a Dataverse Model-driven App and other technologies and tools of the Power Platform.
 
 [![BUAsist - Model-Driven App - Main grid opportunities](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/BUAsist_01.jpg)](https://camilovillam.github.io/projects/BUAsist)
 
-### 2. International Relations Management (Power Apps - Model Driven App)
+### - International Relations Management (Power Apps - Model Driven App)
 
 Proof of concept of a system to manage international relations agreements and students mobility of a university.
 
-### 3. University grant making process (Power Automate and Microsoft 365)
-
-Automation of a whole process to manage applications for an internal call for grants at a university, including receiving proposals, storing and sharing application files, internal reviews and approvals, communication of results, among other, using Power Automate and Microsoft 365 apps (Sharepoint, Forms, Teams, Outlook, Excel).
-
-### 4. Power Automate flows
+### - Power Automate flows
 
 Several Power Automate flows to solve specific business cases, to automate repetitive tasks, or to increase team productivity.
 
-### 5. Copilot Studio - AI Agent
+### - Power BI reports and dashboards
 
-Copilot Agent with AI capabilities (training project for the Power Platform Architects Accelerator program).
+Standalone and embedded in Model Driven Apps.
 
-### 6. Online Retail Store (Canvas App)
+### - Online Retail Store (Canvas App)
 
-Canvas App simulating an online store (training project for the Microsoft Power Up training program).
+Canvas App simulating an online store (*training project for the Microsoft Power Up training program*).
 
-### 7. Outdoor Activities webpage (Power Pages)
+### - Connecting an Azure SQL Database to Dataverse (Azure Data Factory)
 
-Webpage for booking outdoors activities (training project for the Power Platform Architects Accelerator program).
-
-### 8. Connecting a SQL Database (Azure Data Flows)
-
-Azure Data Flow integrating an Azure SQL Databse with Dataverse to be used with a Model Driven App (training project for the Power Platform Architects Accelerator program).
+Data Flow in Azure Data Factory to integrate an SQL Database with Dataverse (*training project for the Power Platform Architects Accelerator program*).
