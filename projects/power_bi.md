@@ -23,7 +23,7 @@ Power BI reports and dashboards to summarize and visualize key data as part of b
 
 - Power BI dashboard for an online retail store, as part of a broader Canvas App solution.
 
-![Power BI dashboard(https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Power%20BI%20report.jpg)
+![Power BI dashboard](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Power%20BI%20report.jpg)
 
 
 - Power BI report embedded in a Model Driven App, using a Gantt chart to visualize team assignments.

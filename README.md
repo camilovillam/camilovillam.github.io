@@ -21,7 +21,7 @@ Power Apps | Model Driven Apps | Canvas Apps | Dataverse | Power Automate | Copi
 
 ## Power Platform projects
 
-### [BUAsist](https://camilovillam.github.io/projects/BUAsist) (Power Apps - Model Driven App)
+### 1. [BUAsist](https://camilovillam.github.io/projects/BUAsist) (Power Apps - Model Driven App)
 
 A comprehensive business application for a Small B-Corp, including ERP, CRM, SCM and project management components. Built using a Dataverse Model-driven App and other technologies and tools of the Power Platform.
 
@@ -29,7 +29,7 @@ A comprehensive business application for a Small B-Corp, including ERP, CRM, SCM
 
 ---
 
-### [International Relations Management](https://camilovillam.github.io/projects/irm_poc) (Power Apps - Model Driven App)
+### 2. [International Relations Management](https://camilovillam.github.io/projects/irm_poc) (Power Apps - Model Driven App)
 
 Proof of concept of a system to manage international relations agreements and students mobility of a university.
 
@@ -37,7 +37,7 @@ Proof of concept of a system to manage international relations agreements and st
 
 ---
 
-### [Power Automate flows](https://camilovillam.github.io/projects/power_automate)
+### 3. [Power Automate flows](https://camilovillam.github.io/projects/power_automate)
 
 Different Power Automate flows to solve specific business cases, to automate repetitive tasks, or to increase team productivity.
 
@@ -45,7 +45,7 @@ Different Power Automate flows to solve specific business cases, to automate rep
 
 ---
 
-### [Power BI reports and dashboards](https://camilovillam.github.io/projects/power_bi)
+### 4. [Power BI reports and dashboards](https://camilovillam.github.io/projects/power_bi)
 
 Standalone and embedded in Model Driven Apps.
 
@@ -54,7 +54,7 @@ Standalone and embedded in Model Driven Apps.
 ---
 
 
-### [Online Retail Store](https://camilovillam.github.io/projects/canvas_app) (Canvas App)
+### 5. [Online Retail Store](https://camilovillam.github.io/projects/canvas_app) (Canvas App)
 
 Canvas App simulating an online store (*training project for the Microsoft Power Up training program*).
 
@@ -63,7 +63,7 @@ Canvas App simulating an online store (*training project for the Microsoft Power
 ---
 
 
-### [Connecting an Azure SQL Database to Dataverse](https://camilovillam.github.io/projects/azure_data_factory) (Azure Data Factory)
+### 6. [Connecting an Azure SQL Database to Dataverse](https://camilovillam.github.io/projects/azure_data_factory) (Azure Data Factory)
 
 Data Flow in Azure Data Factory to integrate an SQL Database with Dataverse (*training project for the Power Platform Architects Accelerator program*).
 
