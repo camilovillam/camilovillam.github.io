@@ -15,11 +15,11 @@ For contact details and additional information about my education and profession
 ---
 
 ## Courses and training
-- Power Platform Architects Accelerator - Untethered365 ([2024](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/certificates/ArchitectsAccelerator_Certificate_of_completion_2024.jpg)
+- Power Platform Architects Accelerator - Untethered365 ([2024](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/certificates/ArchitectsAccelerator_Certificate_of_completion_2024.jpg))
 
 > *Camilo was a superstar in the coursework and live calls. He was one of the few to pull off building a prototype for an enterprise data pipeline and even took on the advanced Power Pages assignments! He doesn't have "Solutions Architect" in his title but he should! A true renaissance talent, he nicely walks the line balancing low and pro code and doesn't bias towards one but rather makes decisions on what truly brings the most impact to the stakeholder. His homework submissions would be used as examples for others.*
 >
-> Sean Astrakhan, Untethered365
+> **Sean Astrakhan, Untethered365**
 
 
 - Agile Foundations for Microsoft Business Apps - Customery Academy ([2024](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/certificates/Customery_Agile_Foundations_certificate.jpg))
