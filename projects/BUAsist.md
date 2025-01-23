@@ -50,4 +50,10 @@ A comprehensive business application for a Small B-Corp in Colombia, including E
 ![Screenshot BUAsist - Model-Driven App - Custom Page (Canvas app)](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/BUAsist_05.jpg)
 
 
+- Azure DevOps Boards with backlog of features and user stories for the system:
+
+
+![Screenshot BUAsist - Azure DevOps Boards](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Azure_DevOps_Boards.jpg)
+
+
 *Back to [Projects](https://camilovillam.github.io/#1-buasist-power-apps---model-driven-app).*
