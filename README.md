@@ -10,6 +10,7 @@ For contact details and additional information about my education and profession
 ---
 
 ## Certifications
+- Microsoft Certified: Power Platform Developer Associate ([PL-400](https://learn.microsoft.com/api/credentials/share/en-us/camilovillam/2B9061B243538598?sharingId=2FEA0D547B3520DC){:target="_blank"}). 
 - Microsoft Certified: Power Platform Functional Consultant Associate ([PL-200](https://learn.microsoft.com/api/credentials/share/en-us/camilovillam/7E93DCEB794FFFD8?sharingId=2FEA0D547B3520DC){:target="_blank"}). 
 - Microsoft Certified: Power Platform Fundamentals ([PL-900](https://learn.microsoft.com/api/credentials/share/en-us/camilovillam/512AE2FB181DCE59?sharingId=2FEA0D547B3520DC){:target="_blank"}). 
 
