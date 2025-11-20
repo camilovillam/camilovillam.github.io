@@ -33,13 +33,35 @@ For contact details and additional information about my education and profession
 ---
 
 ## Power Platform skills
-Power Apps | Model Driven Apps | Canvas Apps | Dataverse | Power Automate | Copilot Studio | Power Pages | Power BI | Azure DevOps | Azure Data Factory | Azure Functions | Microsoft 365 | Sharepoint |
+Power Apps | Model Driven Apps | Canvas Apps | Dataverse | Power Automate | Copilot Studio | Power Pages | Power BI | Azure DevOps | Azure Data Factory | Azure Functions | Microsoft 365 | Sharepoint | M365 Copilot |
 
 ---
 
 ## Power Platform projects
 
-### 1. [BUAsist](https://camilovillam.github.io/projects/BUAsist) (Power Apps - Model Driven App)
+### 1. [Automation of Purchase Orders and Approvals for a client](https://camilovillam.github.io/) (SharePoint, Power Apps, Power Automate, Approvals)
+
+Implemented a secure, end-to-end solution using SharePoint, Power Apps, and Power Automate to streamline requisition submission and approval workflows. Features include dynamic forms, Excel data parsing, automated approval routing, PDF generation, and logging.
+
+**Disclaimer:** The client data and branding has been removed for NDA compliance.
+
+[![Purchase order project - Canvas App - Main form](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/Purchase%20form%2001.png?raw=true)](https://camilovillam.github.io/) 
+
+---
+
+### 2. [Power BI Automatic Calendar Report](https://camilovillam.github.io/) (Power BI, Power Automate, Graph API)
+
+---
+
+### 3. [Opportunities and Tasks Tracker for a SMB](https://camilovillam.github.io) (Power Apps Canvas and Dataverse for Teams)
+
+---
+
+### 4. [Project Management SharePoint Site and Lists for a SMB](https://camilovillam.github.io/) (SharePoint)
+
+---
+
+### 5. [BUAsist](https://camilovillam.github.io/projects/BUAsist) (Power Apps - Model Driven App)
 
 A comprehensive business application for a Small B-Corp, including ERP, CRM, SCM and project management components. Built using a Dataverse Model-driven App and other technologies and tools of the Power Platform.
 
@@ -47,7 +69,7 @@ A comprehensive business application for a Small B-Corp, including ERP, CRM, SCM
 
 ---
 
-### 2. [International Relations Management](https://camilovillam.github.io/projects/irm_poc) (Power Apps - Model Driven App
+### 6. [International Relations Management](https://camilovillam.github.io/projects/irm_poc) (Power Apps - Model Driven App
 
 Proof of concept of a system to manage international relations agreements and students mobility of a university.
 
@@ -55,7 +77,7 @@ Proof of concept of a system to manage international relations agreements and st
 
 ---
 
-### 3. [Power Automate flows](https://camilovillam.github.io/projects/power_automate)
+### 7. [Power Automate flows](https://camilovillam.github.io/projects/power_automate)
 
 Different Power Automate flows to solve specific business cases, to automate repetitive tasks, or to increase team productivity.
 
@@ -63,7 +85,7 @@ Different Power Automate flows to solve specific business cases, to automate rep
 
 ---
 
-### 4. [Power BI reports and dashboards](https://camilovillam.github.io/projects/power_bi)
+### 8. [Power BI reports and dashboards](https://camilovillam.github.io/projects/power_bi)
 
 Power BI reports and dashboards to summarize and visualize key data.
 
@@ -71,17 +93,7 @@ Power BI reports and dashboards to summarize and visualize key data.
 
 ---
 
-
-### 5. [Online Retail Store](https://camilovillam.github.io/projects/canvas_app) (Canvas App)
-
-Canvas App simulating an online store (*training project for the Microsoft Power Up training program*).
-
-[![Canvas App](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Canvas_app_05.jpg)](https://camilovillam.github.io/projects/canvas_app)
-
----
-
-
-### 6. [Connecting an Azure SQL Database to Dataverse](https://camilovillam.github.io/projects/azure_data_factory) (Azure Data Factory)
+### 9. [Connecting an Azure SQL Database to Dataverse](https://camilovillam.github.io/projects/azure_data_factory) (Azure Data Factory)
 
 Data Flow in Azure Data Factory to integrate an SQL Database with Dataverse (*training project for the Power Platform Architects Accelerator program*).
 
