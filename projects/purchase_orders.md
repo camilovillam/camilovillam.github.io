@@ -53,15 +53,28 @@ The client company needed a centralized process for employees to submit purchase
 - Separate **Line items** tab with grid-like editing
 - Computed **Order total**, **Ext. Price** per row, and validation badges
 
+![Main form](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/Purchase%20form%2001.png?raw=true)
+
+![Error handling and messages](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/Purchase%20form%2004.png?raw=true)
+
+![Confirmation pop-up to avoid accidental deletion](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/Purchase%20form%2003.png?raw=true)
+
 ### 2) Excel Paste & Parse
 - Users select which columns to parse (checkboxes)
 - Paste tab-separated rows and **parse** safely into a collection
 - Lookups resolved for Account/Project codes; typed conversions for dates/numbers
 
+![Pasting and parsing data from Excel into the form](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/Purchase%20form%2002.png?raw=true)
+
 ### 3) Approval Routing (Power Automate)
 - Determines **required DOA** based on order total
 - Traverses **employee → manager** chain and **delegation** settings
 - Sends **sequential approvals** with context and PDF links
+
+![Power Automate flow with error handling and branching logic](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/Purchase%20form%2006.png?raw=true)
+
+![Power Automate flow with html generation](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/Purchase%20form%2005.png?raw=true)
+
 
 ### 4) PDF Generation & Logging
 - Generates two PDFs: **Requisition** and **Approval Outcome**
@@ -81,3 +94,4 @@ The client company needed a centralized process for employees to submit purchase
 > **Disclaimer:** Branding, names, emails, tenant info, and identifiers have been removed or replaced with neutral placeholders. No confidential information is disclosed.
 
 *Back to [Projects](https://camilovillam.github.io/#4-power-bi-reports-and-dashboards).*
+
