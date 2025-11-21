@@ -65,6 +65,14 @@ A responsive Canvas App using Dataverse for Teams for opportunities and tasks tr
 
 ---
 
+### [Power Automate flows](https://camilovillam.github.io/projects/power_automate)
+
+Different Power Automate flows to solve specific business cases, to automate repetitive tasks, or to increase team productivity.
+
+[![Power Automate Flow](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Power%20Automate%20flow_JSON_http_requests.jpg)](https://camilovillam.github.io/projects/power_automate)
+
+---
+
 ### [BUAsist](https://camilovillam.github.io/projects/BUAsist) (Power Apps - Model Driven App)
 
 A comprehensive business application for a Small B-Corp, including ERP, CRM, SCM and project management components. Built using a Dataverse Model-driven App and other technologies and tools of the Power Platform.
@@ -78,14 +86,6 @@ A comprehensive business application for a Small B-Corp, including ERP, CRM, SCM
 Proof of concept of a system to manage international relations agreements and students mobility of a university.
 
 [![IRM - Model-Driven App - Main grid Agreements](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/IRO_management_01.jpg)](https://camilovillam.github.io/projects/irm_poc)
-
----
-
-### [Power Automate flows](https://camilovillam.github.io/projects/power_automate)
-
-Different Power Automate flows to solve specific business cases, to automate repetitive tasks, or to increase team productivity.
-
-[![Power Automate Flow](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Power%20Automate%20flow_JSON_http_requests.jpg)](https://camilovillam.github.io/projects/power_automate)
 
 ---
 
