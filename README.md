@@ -51,6 +51,10 @@ An end-to-end solution using SharePoint, Power Apps, and Power Automate to strea
 
 ### [Opportunities and Tasks Tracker](https://camilovillam.github.io/projects/opportunities_and_tasks_tracker) (Power Apps - Canvas App and Dataverse for Teams)
 
+A responsive Canvas App using Dataverse for Teams for opportunities and tasks tracking and planning for a SMB.
+
+![Opportunities and Tasks Tracker - Data Grid](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/BUA_opportunities_03.png?raw=true)
+
 ---
 
 ### [BUAsist](https://camilovillam.github.io/projects/BUAsist) (Power Apps - Model Driven App)
