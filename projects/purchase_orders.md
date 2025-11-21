@@ -1,12 +1,13 @@
 # Automation of purchase orders and approvals for a client (SharePoint, Power Apps, Power Automate, Approvals)
 
-*Back to [Projects](https://camilovillam.github.io/#1-buasist-power-apps---model-driven-app).*
+*Back to [Projects](https://camilovillam.github.io/#power-platform-projects).*
 
 > **Disclaimer:** All client-identifying elements have been removed or replaced for NDA compliance. **No client data or branding is shown.**
 
 ## Overview
-I implemented an end-to-end solution to automate **purchase order requisitions and approvals** for Company using **Microsoft 365 + Power Platform**. The solution replaces email- and spreadsheet-driven processes with a governed, auditable workflow that includes **form validation**, **Excel-like line item parsing**, **DOA-based approval routing**, **PDF generation**, and **SharePoint logging**.
+I implemented an end-to-end solution to automate **purchase order requisitions and approvals** for a Company using **Microsoft 365 + Power Platform**. The solution replaces email- and spreadsheet-driven processes with a governed, auditable workflow that includes **form validation**, **Excel-like line item parsing**, **DOA-based approval routing**, **PDF generation**, and **SharePoint logging**.
 
+- **Year:** 2025
 - **Role:** Solution design, implementation, and documentation  
 - **Stack:** SharePoint, Power Apps (Canvas App), Power Automate, Approvals  
 - **Outcomes:** Faster cycle time, fewer manual errors, consistent audit trail
@@ -14,7 +15,7 @@ I implemented an end-to-end solution to automate **purchase order requisitions a
 ---
 
 ## Business Context
-Company needed a centralized process for employees to submit purchase requisitions and route them through multi-step approvals based on Delegation of Authority (DOA). Requirements included:
+The client company needed a centralized process for employees to submit purchase requisitions and route them through multi-step approvals based on Delegation of Authority (DOA). Requirements included:
 - A **simple UI** for entering requisitions and multiple line items
 - **Excel paste** support for bulk line entries
 - **Automated routing** to approvers (with delegation handling)
@@ -93,13 +94,6 @@ Company needed a centralized process for employees to submit purchase requisitio
 
 ---
 
-## Notes on Implementation & ALM
-- Packaged as an **Unmanaged** Power Platform solution in the default environment
-- Recommended **manual export** as a backup before changes
-- Can be promoted to **Managed** in multi-environment ALM if needed
-
----
-
 ## Results & Impact
 - Significant **reduction in manual effort** and follow-ups  
 - **Faster approvals** with visibility for requisitioners and approvers  
@@ -107,4 +101,5 @@ Company needed a centralized process for employees to submit purchase requisitio
 
 ---
 
-> **Disclaimer:** All screenshots are sanitized images based on the original solution. Branding, names, emails, tenant info, and identifiers have been removed or replaced with neutral placeholders. No confidential information is disclosed.
+
+> **Disclaimer:** Branding, names, emails, tenant info, and identifiers have been removed or replaced with neutral placeholders. No confidential information is disclosed.
