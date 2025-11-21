@@ -1,6 +1,6 @@
 # International Relations Management (Power Apps - Model Driven App)
 
-*Back to [Projects](https://camilovillam.github.io/#2-international-relations-management-power-apps---model-driven-app).*
+*Back to [Projects](https://camilovillam.github.io/#international-relations-management-power-apps---model-driven-app).*
 
 ## Description
 
@@ -32,4 +32,4 @@ Proof of concept (PoC) of a system to manage international relations agreements 
 ![IRM - Model-Driven App - Main grid Agreements](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/IRO_management_02.jpg)
 
 
-*Back to [Projects](https://camilovillam.github.io/#2-international-relations-management-power-apps---model-driven-app).*
+*Back to [Projects](https://camilovillam.github.io/#international-relations-management-power-apps---model-driven-app).*
