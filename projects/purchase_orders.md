@@ -50,12 +50,15 @@ The client company needed a centralized process for employees to submit purchase
 
 ### 1) Requisition Form (Canvas App)
 - Intuitive Requisition tab with required fields and validation
-- Separate Line items tab with grid-like editing
-- Calculated fields per row and totals, validation badges
 
 ![Main form](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/Purchase%20form%2001.png?raw=true)
 
+- Separate Line items tab with grid-like editing
+- Calculated fields per row and totals, validation badges and error notifications
+
 ![Error handling and messages](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/Purchase%20form%2004.png?raw=true)
+
+- Confirmation messages to avoid accidental data deletion
 
 ![Confirmation pop-up to avoid accidental deletion](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/Purchase%20form%2003.png?raw=true)
 
@@ -73,13 +76,13 @@ The client company needed a centralized process for employees to submit purchase
 
 ![Power Automate flow with error handling and branching logic](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/Purchase%20form%2006.png?raw=true)
 
-![Power Automate flow with html generation](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/Purchase%20form%2005.png?raw=true)
-
 
 ### 4) PDF Generation & Logging
 - Generates PDFs with Requisition and Approval Outcome.
 - Stores PDFs in SharePoint libraries; emails include links
 - Logs requisition, line items, and approvals in SharePoint for auditability
+
+![Power Automate flow with html generation](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/Purchase%20form%2005.png?raw=true)
 
 ---
 
@@ -94,5 +97,6 @@ The client company needed a centralized process for employees to submit purchase
 > **Disclaimer:** Branding, names, emails, tenant info, and identifiers have been removed or replaced with neutral placeholders. No confidential information is disclosed.
 
 *Back to [Projects](https://camilovillam.github.io/#power-platform-projects).*
+
 
 
