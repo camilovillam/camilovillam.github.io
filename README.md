@@ -39,25 +39,13 @@ Power Apps | Model Driven Apps | Canvas Apps | Dataverse | Power Automate | Copi
 
 ## Power Platform projects
 
-### 1. [Automation of Purchase Orders and Approvals for a client](https://camilovillam.github.io/) (SharePoint, Power Apps, Power Automate, Approvals)
+### 1. [Automation of Purchase Orders and Approvals for a client](https://camilovillam.github.io/projects/purchase_orders) (SharePoint, Power Apps, Power Automate, Approvals)
 
 Implemented a secure, end-to-end solution using SharePoint, Power Apps, and Power Automate to streamline requisition submission and approval workflows. Features include dynamic forms, Excel data parsing, automated approval routing, PDF generation, and logging.
 
 **Disclaimer:** The client data and branding has been removed for NDA compliance.
 
-[![Purchase order project - Canvas App - Main form](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/Purchase%20form%2001.png?raw=true)](https://camilovillam.github.io/) 
-
----
-
-### 2. [Power BI Automatic Calendar Report](https://camilovillam.github.io/) (Power BI, Power Automate, Graph API)
-
----
-
-### 3. [Opportunities and Tasks Tracker for a SMB](https://camilovillam.github.io) (Power Apps Canvas and Dataverse for Teams)
-
----
-
-### 4. [Project Management SharePoint Site and Lists for a SMB](https://camilovillam.github.io/) (SharePoint)
+[![Purchase order project - Canvas App - Main form](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/Purchase%20form%2001.png?raw=true)](https://camilovillam.github.io/projects/purchase_orders) 
 
 ---
 
