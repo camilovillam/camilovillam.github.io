@@ -39,7 +39,7 @@ Power Apps | Model Driven Apps | Canvas Apps | Dataverse | Power Automate | Copi
 
 ## Power Platform projects
 
-### 1. [Automation of Purchase Orders and Approvals for a client](https://camilovillam.github.io/projects/purchase_orders) (SharePoint, Power Apps, Power Automate, Approvals)
+### [Automation of Purchase Orders and Approvals for a client](https://camilovillam.github.io/projects/purchase_orders) (SharePoint, Power Apps, Power Automate, Approvals)
 
 An end-to-end solution using SharePoint, Power Apps, and Power Automate to streamline requisition submission and approval workflows. Features include dynamic forms, Excel data parsing, automated approval routing, PDF generation, and logging.
 
@@ -49,7 +49,7 @@ An end-to-end solution using SharePoint, Power Apps, and Power Automate to strea
 
 ---
 
-### 2. [BUAsist](https://camilovillam.github.io/projects/BUAsist) (Power Apps - Model Driven App)
+### [BUAsist](https://camilovillam.github.io/projects/BUAsist) (Power Apps - Model Driven App)
 
 A comprehensive business application for a Small B-Corp, including ERP, CRM, SCM and project management components. Built using a Dataverse Model-driven App and other technologies and tools of the Power Platform.
 
@@ -57,7 +57,7 @@ A comprehensive business application for a Small B-Corp, including ERP, CRM, SCM
 
 ---
 
-### 3. [International Relations Management](https://camilovillam.github.io/projects/irm_poc) (Power Apps - Model Driven App
+### [International Relations Management](https://camilovillam.github.io/projects/irm_poc) (Power Apps - Model Driven App
 
 Proof of concept of a system to manage international relations agreements and students mobility of a university.
 
@@ -65,7 +65,7 @@ Proof of concept of a system to manage international relations agreements and st
 
 ---
 
-### 4. [Power Automate flows](https://camilovillam.github.io/projects/power_automate)
+### [Power Automate flows](https://camilovillam.github.io/projects/power_automate)
 
 Different Power Automate flows to solve specific business cases, to automate repetitive tasks, or to increase team productivity.
 
@@ -73,7 +73,7 @@ Different Power Automate flows to solve specific business cases, to automate rep
 
 ---
 
-### 5. [Power BI reports and dashboards](https://camilovillam.github.io/projects/power_bi)
+### [Power BI reports and dashboards](https://camilovillam.github.io/projects/power_bi)
 
 Power BI reports and dashboards to summarize and visualize key data.
 
@@ -81,7 +81,7 @@ Power BI reports and dashboards to summarize and visualize key data.
 
 ---
 
-### 6. [Connecting an Azure SQL Database to Dataverse](https://camilovillam.github.io/projects/azure_data_factory) (Azure Data Factory)
+### [Connecting an Azure SQL Database to Dataverse](https://camilovillam.github.io/projects/azure_data_factory) (Azure Data Factory)
 
 Data Flow in Azure Data Factory to integrate an SQL Database with Dataverse (*training project for the Power Platform Architects Accelerator program*).
 
