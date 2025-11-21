@@ -52,9 +52,12 @@ Backup: Backs up config files before updates.
 ### 5. Reporting
 Power BI: Refreshes a Power BI dataset to update reports with the latest calendar data.
 
-###6. Orchestration
+### 6. Orchestration
 This flow automates the end-to-end pipeline: data extraction, transformation, storage, error management, and reporting.
 
+Flow diagram:
+
+![Power Automate flow diagram](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/Calendar_report_08.png?raw=true)
 
 
 ## Screenshots
