@@ -34,7 +34,7 @@ Selection of different Power Automate flows to solve specific business cases, to
 
 - Power Automate flow that connects to the Graph API, stores results as raw JSON files into SharePoint, and handles API pagination dynamically:
 
-![Power Automate flow - Pagination](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/Calendar_report_06.png?raw=true)
+![Power Automate flow - Pagination](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/Calendar_report_07.png?raw=true)
 
 ---
 
