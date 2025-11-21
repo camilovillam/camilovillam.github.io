@@ -39,7 +39,7 @@ Power Apps | Model Driven Apps | Canvas Apps | Dataverse | Power Automate | Copi
 
 ## Power Platform projects
 
-### [Automation of Purchase Orders and Approvals for a client](https://camilovillam.github.io/projects/purchase_orders) (SharePoint, Power Apps, Power Automate, Approvals)
+### [Automation of purchase orders and approvals for a client company](https://camilovillam.github.io/projects/purchase_orders) (SharePoint, Power Apps, Power Automate, Approvals)
 
 An end-to-end solution using SharePoint, Power Apps, and Power Automate to streamline requisition submission and approval workflows. Features include dynamic forms, Excel data parsing, automated approval routing, PDF generation, and logging.
 
