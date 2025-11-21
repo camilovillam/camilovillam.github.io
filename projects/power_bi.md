@@ -21,7 +21,22 @@ Power BI reports and dashboards to summarize and visualize key data as part of b
 
 ## Screenshots
 
-- Power BI dashboard for an online retail store, as part of a broader Canvas App solution.
+- Power BI report of calendar events extracted using the Graph API (1):
+
+![Power BI calendar report - Overview](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/Calendar_report_01.png?raw=true)
+
+
+- Power BI report of calendar events extracted using the Graph API (2):
+
+![Power BI calendar report - Participants](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/Calendar_report_04.png?raw=true)
+
+
+- Power BI report of calendar events extracted using the Graph API (3):
+
+![Power BI calendar report - Time trends](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/Calendar_report_05.png?raw=true)
+
+
+- Power BI report for an online retail store, as part of a broader Canvas App solution.
 
 ![Power BI dashboard](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Power%20BI%20report.jpg)
 
