@@ -88,7 +88,7 @@ Flow diagram:
 
 - Power Automate flow - Pagination:
 
-![Power Automate flow - Pagination](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/Calendar_report_06.png?raw=true)
+![Power Automate flow - Pagination](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/Calendar_report_07.png?raw=true)
 
 
 
