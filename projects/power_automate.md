@@ -1,6 +1,6 @@
 # Power Automate flows
 
-*Back to [Projects](https://camilovillam.github.io/#3-power-automate-flows).*
+*Back to [Projects](https://camilovillam.github.io/#power-automate-flows).*
 
 ## Description
 
@@ -60,4 +60,4 @@ Selection of different Power Automate flows to solve specific business cases, to
 ---
 
 
-*Back to [Projects](https://camilovillam.github.io/#3-power-automate-flows).*
+*Back to [Projects](https://camilovillam.github.io/#power-automate-flows).*
