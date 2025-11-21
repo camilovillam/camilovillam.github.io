@@ -21,7 +21,7 @@ A comprehensive business application for a Small B-Corp in Colombia, including E
 
 ## Year
 
-2024 (ongoing)
+2024
 
 ## Screenshots
 
