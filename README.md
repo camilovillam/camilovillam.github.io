@@ -49,6 +49,10 @@ An end-to-end solution using SharePoint, Power Apps, and Power Automate to strea
 
 ---
 
+### [Opportunities and Tasks Tracker](https://camilovillam.github.io/projects/opportunities_and_tasks_tracker) (Power Apps - Canvas App and Dataverse for Teams)
+
+---
+
 ### [BUAsist](https://camilovillam.github.io/projects/BUAsist) (Power Apps - Model Driven App)
 
 A comprehensive business application for a Small B-Corp, including ERP, CRM, SCM and project management components. Built using a Dataverse Model-driven App and other technologies and tools of the Power Platform.
