@@ -26,6 +26,23 @@ Selection of different Power Automate flows to solve specific business cases, to
 
 ## Screenshots
 
+- Scheduled Power Automate flow that extracts data from the Graph API using Delta links, to extract only the events that are new or updated for increased perfomance. The flow stores and reads configuration for the Delta Link in JSON files:
+
+![Power Automate flow - Delta Link](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/Calendar_report_06.png?raw=true)
+
+---
+
+- Power Automate flow that connects to the Graph API, stores results as raw JSON files into SharePoint, and handles API pagination dynamically:
+
+![Power Automate flow - Pagination](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/Calendar_report_06.png?raw=true)
+
+---
+
+- Flow to generate dynamic PDF files based on HTML for improved formatting, stored in SharePoint Online:
+
+![Power Automate flow with html generation](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/Purchase%20form%2005.png?raw=true)
+
+---
 
 - Flow that reads email attachments, stores them in Sharepoint, and extracts key information using an AI Builder model:
 
