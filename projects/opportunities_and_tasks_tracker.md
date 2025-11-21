@@ -1,6 +1,6 @@
 # Opportunities and Tasks Tracker (Power Apps - Canvas App and Dataverse for Teams)
 
-*Back to [Projects](https://camilovillam.github.io/#opportunities-and-tasks-tracker---power-apps-canvas-app-and-dataverse-for-teams).*
+*Back to [Projects](https://camilovillam.github.io/#opportunities-and-tasks-tracker-power-apps---canvas-app-and-dataverse-for-teams).*
 
 ## Description
 
@@ -50,4 +50,4 @@ A responsive Canvas App using Dataverse for Teams as datasource for opportunitie
 ![Opportunities and Tasks Tracker - Gantt diagram 2](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/BUA_opportunities_06.png?raw=true)
 
 
-*Back to [Projects](https://camilovillam.github.io/#opportunities-and-tasks-tracker---power-apps-canvas-app-and-dataverse-for-teams).*
+*Back to [Projects](https://camilovillam.github.io/#opportunities-and-tasks-tracker-power-apps---canvas-app-and-dataverse-for-teams).*
