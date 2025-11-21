@@ -49,6 +49,14 @@ An end-to-end solution using SharePoint, Power Apps, and Power Automate to strea
 
 ---
 
+### [Power BI report from Calendar events](https://camilovillam.github.io/projects/power_bi_calendar_report) (Power Automate, Graph API, SharePoint Online, Power Query, Power BI)
+
+An automatic Power BI report of calendar events and meetings. Data is extracted from the Graph API and loaded in raw JSON files in SharePoint Online. Transformation, data modeling and visualization are done in Power Query and Power BI. 
+
+[![Power BI Calendar Report - Overview page](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/projects/Calendar_report_01.png?raw=true)](https://camilovillam.github.io/projects/power_bi_calendar_report)
+
+---
+
 ### [Opportunities and Tasks Tracker](https://camilovillam.github.io/projects/opportunities_and_tasks_tracker) (Power Apps - Canvas App and Dataverse for Teams)
 
 A responsive Canvas App using Dataverse for Teams for opportunities and tasks tracking and planning for a SMB.
