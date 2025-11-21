@@ -1,6 +1,6 @@
 # Power BI reports and dashboards
 
-*Back to [Projects](https://camilovillam.github.io/#4-power-bi-reports-and-dashboards).*
+*Back to [Projects](https://camilovillam.github.io/#power-bi-reports-and-dashboards).*
 
 ## Description
 
@@ -31,4 +31,4 @@ Power BI reports and dashboards to summarize and visualize key data as part of b
 ![Power BI report Gantt Team tasks](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/BUAsist_04.jpg)
 
 
-*Back to [Projects](https://camilovillam.github.io/#4-power-bi-reports-and-dashboards).*
+*Back to [Projects](https://camilovillam.github.io/#power-bi-reports-and-dashboards).*
