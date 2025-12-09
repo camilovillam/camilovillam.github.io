@@ -97,10 +97,3 @@ Power BI reports and dashboards to summarize and visualize key data.
 
 ---
 
-### [Connecting an Azure SQL Database to Dataverse](https://camilovillam.github.io/projects/azure_data_factory) (Azure Data Factory)
-
-Data Flow in Azure Data Factory to integrate an SQL Database with Dataverse (*training project for the Power Platform Architects Accelerator program*).
-
-[![Azure Data Factory](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/projects/Azure_Data_Factory_01.jpg)](https://camilovillam.github.io/projects/azure_data_factory)
-
----
