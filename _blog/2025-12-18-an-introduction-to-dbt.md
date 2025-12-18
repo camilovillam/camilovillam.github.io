@@ -9,7 +9,7 @@ author: Camilo Villa
 
 We’ve heard this. We’ve said this. We’ve thought about this.
 
-How much time do we spend in meetings? How many meetings do we have in a year? Are we _really_ drowning in meetings, as we all seem to think? Should we make [**better use of our time**](https://www.oliverburkeman.com/fourthousandweeks)?
+How much time do we spend in meetings? How many meetings do we have in a year? Are we _really_ drowning in meetings, as we all seem to think? Should we make [**better use of our time**](https://www.oliverburkeman.com/fourthousandweeks){:target="_blank"}?
 
 We all might have a gut feeling about this, but what if we go ahead and extract data insights from our own calendar, to properly answer these questions?
 
@@ -29,7 +29,7 @@ What if we could also use this same data for supporting and improving our decisi
 
 With this noble goal of data analysis in mind, we want to transport that data from its “natural” source, the calendar, through some “pipelines”, to expose it at some other end, in our case, a data report (from which we derive insights and analysis).
 
-![Data pipeline diagram](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/blog/pipeline_diagram.png)
+![Data pipeline diagram](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/blog/pipeline_diagram.png?raw=true))
 
 What is happening there?
 
@@ -54,15 +54,15 @@ Yes, why not just use it as it comes?
 
 Because this is how data extracted from your calendar might look behind the scenes:
 
-![Sample JSON data](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/blog/json_file.png)
+![Sample JSON data](https://raw.githubusercontent.com/camilovillam/camilovillam.github.io/refs/heads/main/assets/img/blog/json_file.png)
 
-This is a [JSON](https://www.json.org/json-en.html) object with meetings information. Typically, one JSON file would contain an array of objects with several meetings. Even if they are readable, it is hard to derive smart insights out of them, right away. For that, we might need to bring them together and transform them into more familiar _shapes_: tables of meetings, tables of assistants, tables of meeting categories, tables of locations, and so on. We might need to adjust the event dates and times for different time zones. We might need to join those tables together to make sense of the data. We might need to summarize or group some of them. And then we can start deriving the insights and analysis we want and we need.
+This is a [JSON](https://www.json.org/json-en.html){:target="_blank"} object with meetings information. Typically, one JSON file would contain an array of objects with several meetings. Even if they are readable, it is hard to derive smart insights out of them, right away. For that, we might need to bring them together and transform them into more familiar _shapes_: tables of meetings, tables of assistants, tables of meeting categories, tables of locations, and so on. We might need to adjust the event dates and times for different time zones. We might need to join those tables together to make sense of the data. We might need to summarize or group some of them. And then we can start deriving the insights and analysis we want and we need.
 
 Keep in mind that we are talking here about a relatively simple use case, calendar data. If we need to deal with data from more complex systems, like CRM, ERP, online stores, or anything like that, the case for data transformation is even stronger. I hope you get the idea.
 
 Therefore, we need to move from Raw data to Transformed data, to facilitate our analysis:
 
-![Raw to transformed data](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/blog/transformed_database.png)
+![Raw to transformed data](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/blog/transformed_database.png?raw=true)
 
 **dbt** is THE tool that supports us in achieving these transformations.
 
@@ -70,7 +70,7 @@ Therefore, we need to move from Raw data to Transformed data, to facilitate our 
 
 ## Using dbt to Transform our data
 
-After extracting data from its source and loading it in our analytical database (in our case, the powerful [DuckDB & MotherDuck combo](https://motherduck.com/blog/dual-execution-dbt/)), we have raw data.
+After extracting data from its source and loading it in our analytical database (in our case, the powerful [DuckDB & MotherDuck combo](https://motherduck.com/blog/dual-execution-dbt/){:target="_blank"}), we have raw data.
 
 We now want to transform it into a structure that can be used for data analytics (reports, analysis, visualization).
 
@@ -102,7 +102,7 @@ We then created _data marts_ out of those staging models. These data marts are n
 
 These transformations can be visualized in what is called a data lineage:
 
-![dbt lineage graph](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/blog/data_lineage.png)
+![dbt lineage graph](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/blog/data_lineage.png?raw=true)
 
 As part of the documentation, dbt generates the lineage for us, together with a definition of the tables, their columns, the detailed SQL code used for transformations, and other additional, important information. Everything we need to continue expanding our development.
 
@@ -114,7 +114,7 @@ We have transformed our raw data using dbt. We have exposed our _data product_ (
 
 Our first iteration of it looks like this:
 
-![Power BI report screenshot](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/blog/power_bi_report.png)
+![Power BI report screenshot](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/blog/power_bi_report.png?raw=true)
 
 Really? All this effort for just _this_?
 
@@ -134,7 +134,7 @@ I don’t want to finish this post without mentioning the tools I used for this 
 
 dbt-core. VS Code. DuckDB. MotherDuck. Git. GitHub. Power BI.
 
-Forgive me for just dropping these names, without further explanation. For our purposes, it is enough to know that I spent _some time_ setting some of them up. Surely, there are [better, faster ways](https://datacoves.com/) to get you and your team started with professional-grade analytics engineering and data analytics.
+Forgive me for just dropping these names, without further explanation. For our purposes, it is enough to know that I spent _some time_ setting some of them up. Surely, there are [better, faster ways](https://datacoves.com/){:target="_blank"} to get you and your team started with professional-grade analytics engineering and data analytics.
 
 As I mentioned before, what I described here doesn’t even cover a complete data pipeline. We missed tools for extraction, for loading, for orchestrating all the process. This was a tiny snapshot of a way larger and more fascinating process.
 
@@ -144,6 +144,7 @@ As I mentioned before, what I described here doesn’t even cover a complete dat
 
 Our purpose here was to share some introductory ideas of what dbt is and how it can be used to transform data. We used a very simple data project, using calendar data, as an introduction to this tool as well as to some other basic concepts in the modern data stack and modern data operations.
 
-If you made it until here, I’ll be bold and ask you for more of your precious time (yes, that time you saved by rejecting the invitation that just arrived for one particularly evil-looking meeting): Make sure to watch [this accompanying video](https://www.loom.com/share/24388e3dab5b4cc181d21fa2c95334c8) for more details about the data transformation process we performed in dbt.
+If you made it until here, I’ll be bold and ask you for more of your precious time (yes, that time you saved by rejecting the invitation that just arrived for one particularly evil-looking meeting): Make sure to watch [this accompanying video](https://www.loom.com/share/24388e3dab5b4cc181d21fa2c95334c8){:target="_blank"} for more details about the data transformation process we performed in dbt.
 
-I wouldn’t be posting this if dbt didn’t have the power to support us in more complex projects. It does. Get familiar with it.
+I wouldn’t be posting this if dbt didn’t have the power to support us in more complex projects. It does. Get familiar with it and, if you like it, start using it!
+
