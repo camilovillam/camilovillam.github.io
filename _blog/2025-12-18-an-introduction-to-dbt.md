@@ -18,6 +18,7 @@ Yes, I am proposing a data analytics project here, a very simple one, just to il
 Using this sample project of calendar data, which is something we all can relate to, I want to introduce one of the main tools of the modern data stack: **dbt**, or data build tool. Let us find out what that is and how it can help us in our data analysis tasks and projects.
 
 
+
 ### Setting the stage: the data pipeline for our calendar project
 
 We have data in a calendar (our source).
@@ -46,6 +47,7 @@ Arbitrarily, for the rest of this article, we will focus on the **Transformation
 Just remember that a complete data pipeline would include much more, and the modern data stack includes many fascinating processes, tools, technologies.
 
 
+
 ### Why do we actually need to transform our data?
 
 Yes, why not just use it as it comes?
@@ -63,6 +65,7 @@ Therefore, we need to move from Raw data to Transformed data, to facilitate our 
 ![Raw to transformed data](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/blog/transformed_database.png?raw=true)
 
 **dbt** is THE tool that supports us in achieving these transformations.
+
 
 
 ### Using dbt to Transform our data
@@ -86,6 +89,7 @@ In a nutshell, DataOps is bringing well-established practices of Software Develo
 dbt as a tool enables and facilitates DataOps for our data transformations.
 
 
+
 ### Understanding the transformation flow: lineage
 
 Using dbt, what did we actually do to our data?
@@ -101,6 +105,7 @@ These transformations can be visualized in what is called a data lineage:
 ![dbt lineage graph](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/blog/data_lineage.png?raw=true)
 
 As part of the documentation, dbt generates the lineage for us, together with a definition of the tables, their columns, the detailed SQL code used for transformations, and other additional, important information. Everything we need to continue expanding our development.
+
 
 
 ### Ok, and the final report?
@@ -122,7 +127,8 @@ And that is precisely what dbt **enables**. Collaboration. Easier development of
 So, this was just the beginning. Keep iterating, and you can get a report with _way_ more insights, more visuals, more analysis.
 
 
-### Very few words on Tooling…
+
+### Very few words on tooling…
 
 I don’t want to finish this post without mentioning the tools I used for this project, since tooling is a very important part of analytics engineering:
 
@@ -133,7 +139,8 @@ Forgive me for just dropping these names, without further explanation. For our p
 As I mentioned before, what I described here doesn’t even cover a complete data pipeline. We missed tools for extraction, for loading, for orchestrating all the process. This was a tiny snapshot of a way larger and more fascinating process.
 
 
-### Closing words
+
+### Closing remarks
 
 Our purpose here was to share some introductory ideas of what dbt is and how it can be used to transform data. We used a very simple data project, using calendar data, as an introduction to this tool as well as to some other basic concepts in the modern data stack and modern data operations.
 
