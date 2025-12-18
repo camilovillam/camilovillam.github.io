@@ -32,7 +32,7 @@ What if we could also use this same data for supporting and improving our decisi
 
 With this noble goal of data analysis in mind, we want to transport that data from its “natural” source, the calendar, through some “pipelines”, to expose it at some other end, in our case, a data report (from which we derive insights and analysis).
 
-![Data pipeline diagram](image1.png)
+![Data pipeline diagram](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/blog/pipeline_diagram.png)
 
 What is happening there?
 
@@ -57,7 +57,7 @@ Yes, why not just use it as it comes?
 
 Because this is how data extracted from your calendar might look behind the scenes:
 
-![Sample JSON data](image2.png)
+![Sample JSON data](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/blog/json_file.png)
 
 This is a [JSON](https://www.json.org/json-en.html) object with meetings information. Typically, one JSON file would contain an array of objects with several meetings. Even if they are readable, it is hard to derive smart insights out of them, right away. For that, we might need to bring them together and transform them into more familiar _shapes_: tables of meetings, tables of assistants, tables of meeting categories, tables of locations, and so on. We might need to adjust the event dates and times for different time zones. We might need to join those tables together to make sense of the data. We might need to summarize or group some of them. And then we can start deriving the insights and analysis we want and we need.
 
@@ -65,7 +65,7 @@ Keep in mind that we are talking here about a relatively simple use case, calend
 
 Therefore, we need to move from Raw data to Transformed data, to facilitate our analysis:
 
-![Raw to transformed data](image1.png)
+![Raw to transformed data](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/blog/transformed_database.png)
 
 **dbt** is THE tool that supports us in achieving these transformations.
 
@@ -105,7 +105,7 @@ We then created _data marts_ out of those staging models. These data marts are n
 
 These transformations can be visualized in what is called a data lineage:
 
-![dbt lineage graph](image3.png)
+![dbt lineage graph](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/blog/data_lineage.png)
 
 As part of the documentation, dbt generates the lineage for us, together with a definition of the tables, their columns, the detailed SQL code used for transformations, and other additional, important information. Everything we need to continue expanding our development.
 
@@ -117,7 +117,7 @@ We have transformed our raw data using dbt. We have exposed our _data product_ (
 
 Our first iteration of it looks like this:
 
-![Power BI report screenshot](image4.png)
+![Power BI report screenshot](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/blog/power_bi_report.png)
 
 Really? All this effort for just _this_?
 
@@ -131,7 +131,7 @@ So, this was just the beginning. Keep iterating, and you can get a report with _
 
 ---
 
-## [Very] few words on Tooling…
+## Very few words on Tooling…
 
 I don’t want to finish this post without mentioning the tools I used for this project, since tooling is a very important part of analytics engineering:
 
