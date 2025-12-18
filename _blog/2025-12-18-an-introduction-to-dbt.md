@@ -9,7 +9,7 @@ author: Camilo Villa
 
 We’ve heard this. We’ve said this. We’ve thought about this.
 
-How much time do we spend in meetings? How many meetings do we have in a year? Are we _really_ drowning in meetings, as we all seem to think? Should we make [**better use of our time**](https://www.oliverburkeman.com/fourthousandweeks){:target="_blank"}?
+How much time do we spend in meetings? How many meetings do we have in a year? Are we _really_ drowning in meetings, as we all seem to think? Should we make [_better use of our time_](https://www.oliverburkeman.com/fourthousandweeks){:target="_blank"}?
 
 We all might have a gut feeling about this, but what if we go ahead and extract data insights from our own calendar, to properly answer these questions?
 
@@ -29,7 +29,7 @@ What if we could also use this same data for supporting and improving our decisi
 
 With this noble goal of data analysis in mind, we want to transport that data from its “natural” source, the calendar, through some “pipelines”, to expose it at some other end, in our case, a data report (from which we derive insights and analysis).
 
-![Data pipeline diagram](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/blog/pipeline_diagram.png?raw=true))
+![Data pipeline diagram](https://github.com/camilovillam/camilovillam.github.io/blob/main/assets/img/blog/pipeline_diagram.png?raw=true)
 
 What is happening there?
 
