@@ -17,9 +17,8 @@ Yes, I am proposing a data analytics project here, a very simple one, just to il
 
 Using this sample project of calendar data, which is something we all can relate to, I want to introduce one of the main tools of the modern data stack: **dbt**, or data build tool. Let us find out what that is and how it can help us in our data analysis tasks and projects.
 
----
 
-## Setting the stage: the data pipeline for our calendar project
+### Setting the stage: the data pipeline for our calendar project
 
 We have data in a calendar (our source).
 
@@ -46,9 +45,8 @@ Arbitrarily, for the rest of this article, we will focus on the **Transformation
 
 Just remember that a complete data pipeline would include much more, and the modern data stack includes many fascinating processes, tools, technologies.
 
----
 
-## Why do we actually need to transform our data?
+### Why do we actually need to transform our data?
 
 Yes, why not just use it as it comes?
 
@@ -66,9 +64,8 @@ Therefore, we need to move from Raw data to Transformed data, to facilitate our 
 
 **dbt** is THE tool that supports us in achieving these transformations.
 
----
 
-## Using dbt to Transform our data
+### Using dbt to Transform our data
 
 After extracting data from its source and loading it in our analytical database (in our case, the powerful [DuckDB & MotherDuck combo](https://motherduck.com/blog/dual-execution-dbt/){:target="_blank"}), we have raw data.
 
@@ -88,9 +85,8 @@ In a nutshell, DataOps is bringing well-established practices of Software Develo
 
 dbt as a tool enables and facilitates DataOps for our data transformations.
 
----
 
-## Understanding the transformation flow: lineage
+### Understanding the transformation flow: lineage
 
 Using dbt, what did we actually do to our data?
 
@@ -106,9 +102,8 @@ These transformations can be visualized in what is called a data lineage:
 
 As part of the documentation, dbt generates the lineage for us, together with a definition of the tables, their columns, the detailed SQL code used for transformations, and other additional, important information. Everything we need to continue expanding our development.
 
----
 
-## Ok, and the final report?
+### Ok, and the final report?
 
 We have transformed our raw data using dbt. We have exposed our _data product_ (that _data mart_) for someone to consume it. In our sample project, we use Power BI as the consumption tool for analysis. It connects to our Transformed database in MotherDuck and uses that information to generate a report.
 
@@ -126,9 +121,8 @@ And that is precisely what dbt **enables**. Collaboration. Easier development of
 
 So, this was just the beginning. Keep iterating, and you can get a report with _way_ more insights, more visuals, more analysis.
 
----
 
-## Very few words on Tooling…
+### Very few words on Tooling…
 
 I don’t want to finish this post without mentioning the tools I used for this project, since tooling is a very important part of analytics engineering:
 
@@ -138,9 +132,8 @@ Forgive me for just dropping these names, without further explanation. For our p
 
 As I mentioned before, what I described here doesn’t even cover a complete data pipeline. We missed tools for extraction, for loading, for orchestrating all the process. This was a tiny snapshot of a way larger and more fascinating process.
 
----
 
-## Closing words
+### Closing words
 
 Our purpose here was to share some introductory ideas of what dbt is and how it can be used to transform data. We used a very simple data project, using calendar data, as an introduction to this tool as well as to some other basic concepts in the modern data stack and modern data operations.
 
