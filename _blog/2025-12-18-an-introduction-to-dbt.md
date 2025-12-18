@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: An Introduction to dbt: Transforming Calendar Data for Analytics
+title: An Introduction to dbt - Transforming Calendar Data for Analytics
 date: 2025-12-18
 author: Camilo Villa
 ---
