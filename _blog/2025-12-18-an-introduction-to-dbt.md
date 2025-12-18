@@ -1,12 +1,9 @@
 ---
 layout: blog
-title: Welcome to My Blog
+title: An Introduction to dbt: Transforming Calendar Data for Analytics
 date: 2025-12-18
+author: Camilo Villa
 ---
-
-# An Introduction to dbt: Transforming Calendar Data for Analytics
-
-**Camilo Villa – December, 2025**
 
 > _“This meeting should have been an email”._
 
